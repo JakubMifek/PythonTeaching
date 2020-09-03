@@ -5,3 +5,4 @@ semaphore = Semaphore()
 semaphore.start()
 
 sleep(0.5)
+semaphore
